@@ -1,0 +1,20 @@
+.card {
+    flex: 35%;
+    min-height: 200px;
+    margin: 15px;
+    border: solid 2px greenyellow;
+    
+}
+
+.columns {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+p {
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
